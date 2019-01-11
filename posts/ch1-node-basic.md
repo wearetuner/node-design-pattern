@@ -68,8 +68,8 @@ categories: node, nodejs, nodejs-design-pattern, design-pattern
 * Symbols - 처음 본다
 
 ## Reactor Pattern
-#### blocking I/O vs non-blocking I/O vs asynchronous
-세 가지 비교를 할 수 있는가? 확인할 수 없다면, 다음 링크를 꼭 읽어보라. (http://asfirstalways.tistory.com/348)
+#### [blocking I/O vs non-blocking I/O vs asynchronous](http://asfirstalways.tistory.com/348)
+세 가지 비교를 할 수 있는가? 확인할 수 없다면, 다음 링크를 꼭 읽어보라. 
 * non-blocking I/O : 즉시 그 시점에 가능한 data return
   - polling: 반환할 수 있는 데이터를 지속적으로 확인, busy-waiting
 * blocking I/O : 전체 data return 할때까지 대기
